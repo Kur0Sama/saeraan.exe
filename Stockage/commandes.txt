@@ -1,0 +1,8 @@
+```
+
+sr:help - Afficher l'aide
+sr:ping - Voir son ping
+sr:music play <URL> - Jouer une musique
+sr:music stop - Arrêter une musique
+
+```

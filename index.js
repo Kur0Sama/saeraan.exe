@@ -36,4 +36,4 @@ bot.on('ready', () => require('./Evenements/ready.js')(bot));
 
 // LOGIN
 
-bot.login(bot.config.token);
+bot.login(process.env.BOT_TOKEN);
